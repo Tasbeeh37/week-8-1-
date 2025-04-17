@@ -1,0 +1,12 @@
+# week-8-1-
+public static void simpleWhileLoop(){ //name of method
+        // TODO code application logic here
+        int i =1;
+        
+       while(i <= 10){//print the number
+           System.out.println(i);
+           i++;
+       }//final
+}
+    
+
