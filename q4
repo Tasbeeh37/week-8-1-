@@ -1,0 +1,12 @@
+public static void simpleDoWhile(int upperLimit) {
+    final int STSRT =1;    
+    int i = 1; 
+
+    do{  // do number
+            System.out.println(i); 
+            i++; 
+        } 
+        while (i <= upperLimit);//the while number
+        
+}  //final      
+        
